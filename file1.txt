@@ -2,3 +2,4 @@ hello my name is kishore
 my age is 25
 I work as Devops engineer
 I have 5 years of experience in Devops, cloud computing and automation.
+I am proficient in tools like Jenkins, Docker, Kubernetes, Terraform, Ansible, and AWS.
